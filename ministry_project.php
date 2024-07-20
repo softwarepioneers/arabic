@@ -1,6 +1,6 @@
 <?php
 $PageName="الوزارة التعليم";
-// include 'arabic_header.php';
+ include 'arabic_header.php';
 ?>
             <br />
             <br />

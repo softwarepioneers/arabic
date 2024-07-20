@@ -1,6 +1,6 @@
 <?php
 $PageName="بريد العملاء";
-// include 'arabic_header.php';
+include 'arabic_header.php';
 ?>
 
             <br />

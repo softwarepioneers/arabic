@@ -2362,17 +2362,17 @@ include 'arabic_header.php';
                                 التسجيل
                             </h6>
                             <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
-                                الصفقات
+                                المنشآت 
                             </h6>
                             <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                 الأكاديمية
                             </h6>
 
                             <h4 class="custom-title hidden-xs">التسجيل</h4>
-                            <h4 class="custom-title hidden-xs">الصفقات</h4>
+                            <h4 class="custom-title hidden-xs">المنشآت </h4>
                             <h4 class="custom-title hidden-xs">الأكاديمية</h4>
 
-                            <p><a href="contract.php" class="btn btn-primary custom-btn-primary"> التسجيل</a></p>
+                            <p><a href="institution.php" class="btn btn-primary custom-btn-primary"> التسجيل</a></p>
                         </div>
                     </div>
                 </div>
@@ -2388,17 +2388,17 @@ include 'arabic_header.php';
                                 السجلات
                             </h6>
                             <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
-                                الصفقات
+                               المنشآت 
                             </h6>
                             <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                 الأكاديمية
                             </h6>
 
                             <h4 class="custom-title hidden-xs">السجلات</h4>
-                            <h4 class="custom-title hidden-xs">الصفقات</h4>
+                            <h4 class="custom-title hidden-xs">المنشآت </h4>
                             <h4 class="custom-title hidden-xs">الأكاديمية</h4>
 
-                            <p><a href="contracts.php" class="btn btn-primary custom-btn-primary"> السجلات</a></p>
+                            <p><a href="institutions.php" class="btn btn-primary custom-btn-primary"> السجلات</a></p>
                         </div>
                     </div>
                 </div>

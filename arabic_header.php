@@ -49,16 +49,16 @@ include 'config.php';
                                     <a href="index.php"> الرئيسية</a>
                                 </li>
                                 <li>
-                                    <a href="english/page-login.php" target="_blank" class="hidden-xs hidden-sm">الوزارة التعليم</a>
+                                    <a href="english/page-login.html" target="_blank" class="hidden-xs hidden-sm">الوزارة التعليم</a>
                                 </li>
                                 <li>
-                                    <a href="english/page-login.php" target="_blank" class="hidden-xs hidden-sm">المدارس</a>
+                                    <a href="english/page-login.html" target="_blank" class="hidden-xs hidden-sm">المدارس</a>
                                 </li>
                                 <li>
-                                    <a href="english/page-login.php" target="_blank" class="hidden-xs hidden-sm">المعاهد</a>
+                                    <a href="english/page-login.html" target="_blank" class="hidden-xs hidden-sm">المعاهد</a>
                                 </li>
                                 <li>
-                                    <a href="english/page-login.php" target="_blank" class="hidden-xs hidden-sm">الجامعات</a>
+                                    <a href="english/page-login.html" target="_blank" class="hidden-xs hidden-sm">الجامعات</a>
                                 </li>
                                 <li>
                                     <a href="contact.php">البريد </a>

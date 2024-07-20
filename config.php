@@ -1,4 +1,4 @@
-/*<?php
+<?php
 //Connection Project
         $servername="localhost";
         $username="root";
@@ -14,5 +14,4 @@
         }
 
 //Connection Project
-*/
 ?>
