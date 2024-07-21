@@ -11,10 +11,10 @@
                        <a href="somali.php">اللغة الصومالية</a>
                         <a href="activated_systems.php" class="hidden-xs hidden-sm">العملاء</a>
                         <a href="activated_systems.php" class="hidden-xs hidden-sm">الإمتحانات </a>
-                        <a href="english/page-login.html" target="_blank" class="hidden-xs hidden-sm">المدارس</a>
-                        <a href="english/page-login.html" target="_blank" class="hidden-xs hidden-sm">المعاهد</a>
-                        <a href="english/page-login.html" target="_blank" class="hidden-xs hidden-sm">الجامعات</a>
-                        <a href="ministry_project.php">الوزارة التعليم</a>
+                        <a href="arabic/page-login.html" target="_blank" class="hidden-xs hidden-sm">المدارس</a>
+                        <a href="arabic/page-login.html" target="_blank" class="hidden-xs hidden-sm">المعاهد</a>
+                        <a href="arabic/page-login.html" target="_blank" class="hidden-xs hidden-sm">الجامعات</a>
+                        <a href="arabic/page-login.html" target="_blank" class="hidden-xs hidden-sm">الوزارة التعليم</a>
                         <a href="index.php">اللغة الإنجليزية</a>
 
                         <hr />

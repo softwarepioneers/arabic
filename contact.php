@@ -1,6 +1,14 @@
 <?php
 $PageName="بريد العملاء";
 include 'arabic_header.php';
+
+// echo "
+// <li class='active'>
+// <a href='contact.php'>البريد </a>
+// </li>
+// ";
+
+
 ?>
 
             <br />
