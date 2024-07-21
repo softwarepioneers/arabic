@@ -46,7 +46,7 @@ include 'arabic_header.php';
                     <div class="caption custom-caption">
                         <div class="text-center">
                             <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
-                                المدارس
+                               الأنظمة 
                             </h6>
                             <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                 التمهيدية
@@ -56,7 +56,7 @@ include 'arabic_header.php';
                             </h6>
 
                             <h4 class="custom-title hidden-xs">
-                                المدارس
+                               الأنظمة 
                             </h4>
 
                             <h4 class="custom-title hidden-xs">التمهيدية</h4>
@@ -64,7 +64,7 @@ include 'arabic_header.php';
                                 النشطة
                             </h4>
 
-                            <p><a href="kgschools.php" class="btn btn-primary custom-btn-primary"> الأنظمة</a></p>
+                            <p><a href="kg_schools.php" class="btn btn-primary custom-btn-primary"> الأنظمة</a></p>
                         </div>
                     </div>
                 </div>
@@ -77,7 +77,7 @@ include 'arabic_header.php';
                     <div class="caption custom-caption">
                         <div class="text-center">
                             <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
-                                المدارس
+                                الأنظمة 
                             </h6>
                             <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                 الإبتدائية
@@ -87,7 +87,7 @@ include 'arabic_header.php';
                             </h6>
 
                             <h4 class="custom-title hidden-xs">
-                                المدارس
+                                الأنظمة 
                             </h4>
 
                             <h4 class="custom-title hidden-xs">الإبتدائية</h4>
@@ -95,7 +95,7 @@ include 'arabic_header.php';
                                 النشطة
                             </h4>
 
-                            <p><a href="primaryschools.php" class="btn btn-primary custom-btn-primary"> الأنظمة</a></p>
+                            <p><a href="primary_schools.php" class="btn btn-primary custom-btn-primary"> الأنظمة</a></p>
                         </div>
                     </div>
                 </div>
@@ -108,7 +108,7 @@ include 'arabic_header.php';
                     <div class="caption custom-caption">
                         <div class="text-center">
                             <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
-                                المدارس
+                                الأنظمة 
                             </h6>
                             <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                 الإعدادية
@@ -118,7 +118,7 @@ include 'arabic_header.php';
                             </h6>
 
                             <h4 class="custom-title hidden-xs">
-                                المدارس
+                                الأنظمة 
                             </h4>
 
                             <h4 class="custom-title hidden-xs">الإعدادية</h4>
@@ -126,7 +126,7 @@ include 'arabic_header.php';
                                 النشطة
                             </h4>
 
-                            <p><a href="preparatoryschools.php" class="btn btn-primary custom-btn-primary"> الأنظمة</a></p>
+                            <p><a href="preparatory_schools.php" class="btn btn-primary custom-btn-primary"> الأنظمة</a></p>
                         </div>
                     </div>
                 </div>
@@ -139,7 +139,7 @@ include 'arabic_header.php';
                     <div class="caption custom-caption">
                         <div class="text-center">
                             <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
-                                المدارس
+                                الأنظمة 
                             </h6>
                             <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                 الثانوية
@@ -149,7 +149,7 @@ include 'arabic_header.php';
                             </h6>
 
                             <h4 class="custom-title hidden-xs">
-                                المدارس
+                                الأنظمة 
                             </h4>
 
                             <h4 class="custom-title hidden-xs">الثانوية</h4>
@@ -157,7 +157,7 @@ include 'arabic_header.php';
                                 النشطة
                             </h4>
 
-                            <p><a href="secondaryschools.php" class="btn btn-primary custom-btn-primary"> الأنظمة</a></p>
+                            <p><a href="secondary_schools.php" class="btn btn-primary custom-btn-primary"> الأنظمة</a></p>
                         </div>
                     </div>
                 </div>
@@ -171,25 +171,25 @@ include 'arabic_header.php';
                     <div class="caption custom-caption">
                         <div class="text-center">
                             <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
-                                المعاهد
+                               الأنظمة 
                             </h6>
                             <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
-                                العلمية
+                               المعاهد
                             </h6>
                             <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                 النشطة
                             </h6>
 
                             <h4 class="custom-title hidden-xs">
-                                المعاهد
+                              الأنظمة  
                             </h4>
 
-                            <h4 class="custom-title hidden-xs">العلمية</h4>
+                            <h4 class="custom-title hidden-xs">المعاهد</h4>
                             <h4 class="custom-title hidden-xs">
                                 النشطة
                             </h4>
 
-                            <p><a href="academicinstitutes.php" class="btn btn-primary custom-btn-primary"> الأنظمة</a></p>
+                            <p><a href="academic_institutes.php" class="btn btn-primary custom-btn-primary"> الأنظمة</a></p>
                         </div>
                     </div>
                 </div>
@@ -202,25 +202,25 @@ include 'arabic_header.php';
                     <div class="caption custom-caption">
                         <div class="text-center">
                             <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
-                                الجامعات
+                               الأنظمة  
                             </h6>
                             <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
-                                العلمية
+                               الجامعات  
                             </h6>
                             <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                 النشطة
                             </h6>
 
                             <h4 class="custom-title hidden-xs">
-                                الجامعات
+                               الأنظمة  
                             </h4>
 
-                            <h4 class="custom-title hidden-xs">العلمية</h4>
+                            <h4 class="custom-title hidden-xs">الجامعات</h4>
                             <h4 class="custom-title hidden-xs">
                                 النشطة
                             </h4>
 
-                            <p><a href="academicuniversities.php" class="btn btn-primary custom-btn-primary"> الأنظمة</a></p>
+                            <p><a href="academic_universities.php" class="btn btn-primary custom-btn-primary"> الأنظمة</a></p>
                         </div>
                     </div>
                 </div>
@@ -267,7 +267,7 @@ include 'arabic_header.php';
                                 النشطة
                             </h4>
 
-                            <p><a href="kgschoolsexams.php" class="btn btn-primary custom-btn-primary"> الإمتحانات</a></p>
+                            <p><a href="kg_schools_examinations.php" class="btn btn-primary custom-btn-primary"> الإمتحانات</a></p>
                         </div>
                     </div>
                 </div>
@@ -298,7 +298,7 @@ include 'arabic_header.php';
                                 النشطة
                             </h4>
 
-                            <p><a href="primaryschoolsexams.php" class="btn btn-primary custom-btn-primary"> الإمتحانات</a></p>
+                            <p><a href="primary_schools_examinations.php" class="btn btn-primary custom-btn-primary"> الإمتحانات</a></p>
                         </div>
                     </div>
                 </div>
@@ -329,7 +329,7 @@ include 'arabic_header.php';
                                 النشطة
                             </h4>
 
-                            <p><a href="preparatoryschoolsexams.php" class="btn btn-primary custom-btn-primary"> الإمتحانات</a></p>
+                            <p><a href="preparatory_schools_examinations.php" class="btn btn-primary custom-btn-primary"> الإمتحانات</a></p>
                         </div>
                     </div>
                 </div>
@@ -360,7 +360,7 @@ include 'arabic_header.php';
                                 النشطة
                             </h4>
 
-                            <p><a href="secondaryschoolsexams.php" class="btn btn-primary custom-btn-primary"> الإمتحانات</a></p>
+                            <p><a href="secondary_schools_examinations.php" class="btn btn-primary custom-btn-primary"> الإمتحانات</a></p>
                         </div>
                     </div>
                 </div>
@@ -392,7 +392,7 @@ include 'arabic_header.php';
                                 النشطة
                             </h4>
 
-                            <p><a href="academicinstitutesexams.php" class="btn btn-primary custom-btn-primary"> الإمتحانات</a></p>
+                            <p><a href="academic_institutes_examinations.php" class="btn btn-primary custom-btn-primary"> الإمتحانات</a></p>
                         </div>
                     </div>
                 </div>
@@ -423,7 +423,7 @@ include 'arabic_header.php';
                                 النشطة
                             </h4>
 
-                            <p><a href="academicuniversitiesexams.php" class="btn btn-primary custom-btn-primary"> الإمتحانات</a></p>
+                            <p><a href="academic_universities_examinations.php" class="btn btn-primary custom-btn-primary"> الإمتحانات</a></p>
                         </div>
                     </div>
                 </div>
