@@ -1,11 +1,6 @@
 <?php
 $PageName="الأكاديمية صوماليلاند";
 include 'arabic_header.php';
-// echo "
-// <li class='active'>
-// <a href='index.php'> الرئيسية</a>
-// </li>
-// ";
 ?>
            <br />
             <br />

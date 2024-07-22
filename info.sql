@@ -700,22 +700,22 @@ CREATE TABLE `Students_Universities` (
 
 CREATE TABLE `Acadamic_Centers` (
 
-  `Id` int(11) NOT NULL,
-  `CentersName` varchar(50) NOT NULL DEFAULT 'Centers Name',
-  `CentersType` varchar(50) NOT NULL DEFAULT 'Centers Type',
-  `CentersManager` varchar(50) NOT NULL DEFAULT 'Centers Manager',
-  `CentersPhone` varchar(50) NOT NULL DEFAULT 'Centers Phone',
-  `CentersMobile` varchar(50) NOT NULL DEFAULT 'Centers Mobile',
-  `CentersWhatsApp` varchar(50) NOT NULL DEFAULT 'Centers WhatsApp',
-  `CentersEmail` varchar(50) NOT NULL DEFAULT 'Centers Email',
-  `CentersRegion` varchar(50) NOT NULL DEFAULT 'Centers Region',
-  `CentersCity` varchar(50) NOT NULL DEFAULT 'Centers City',
-  `CentersDistrict` varchar(50) NOT NULL DEFAULT 'Centers District',
-  `CentersSpecialty` varchar(50) NOT NULL DEFAULT 'Centers Specialty',
-  `CentersNeeds` varchar(50) NOT NULL DEFAULT 'Centers Needs',
-  `RegistrationDate` varchar(50) NOT NULL DEFAULT 'Registration Date',
-  `CentersSystem` varchar(50) NOT NULL DEFAULT 'Centers System',
-  `CentersSystemType` varchar(50) NOT NULL DEFAULT 'Centers System Type'
+ `Id` int(11) NOT NULL,
+ `CenterName` varchar(50) NOT NULL DEFAULT 'Center Name',
+ `CenterType` varchar(50) NOT NULL DEFAULT 'Center Type',
+ `CenterManager` varchar(50) NOT NULL DEFAULT 'Center Manager',
+ `CenterPhone` varchar(50) NOT NULL DEFAULT 'Center Phone',
+ `CenterMobile` varchar(50) NOT NULL DEFAULT 'Center Mobile',
+ `CenterWhatsApp` varchar(50) NOT NULL DEFAULT 'Center WhatsApp',
+ `CenterEmail` varchar(50) NOT NULL DEFAULT 'Center Email',
+ `CenterRegion` varchar(50) NOT NULL DEFAULT 'Center Region',
+ `CenterCity` varchar(50) NOT NULL DEFAULT 'Center City',
+ `CenterDistrict` varchar(50) NOT NULL DEFAULT 'Center District',
+ `CenterSpecialty` varchar(50) NOT NULL DEFAULT 'Center Specialty',
+ `CenterNeeds` varchar(50) NOT NULL DEFAULT 'Center Needs',
+ `RegistrationDate` varchar(50) NOT NULL DEFAULT 'Registration Date',
+ `CenterSystem` varchar(50) NOT NULL DEFAULT 'Center System',
+ `CenterSystemType` varchar(50) NOT NULL DEFAULT 'Center System Type'
 
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
