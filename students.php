@@ -24,26 +24,20 @@ include 'arabic_header.php';
 	        
       
             <br />
-            <br />
-            <br />
+          
 
 
 
+           
             <div class="row">
                 <div class="container-fluid">
                     <div class="text-center">
                         <h3>
-                         السجلات الطلاب 
+                        السجلات الطلاب
                         </h3>
                     </div>
 
-                    <div class="row">
-                        <div class="container-fluid">
-                            <div class="text-center">
-                              
-                            </div>
-                        </div>
-                    </div>
+                   
                      <div class="col-md-2 col-sm-3 col-xs-6">
                         <div id="blog-thumbnail hidden-xs hidden-sm" class="thumbnail custom-thumbnail">
                             <img src="images/Laptop.png" alt="schools" class="Image-zise" />
