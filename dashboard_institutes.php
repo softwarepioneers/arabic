@@ -1,5 +1,5 @@
 <?php
-$PageName="الأكاديمية صوماليلاند";
+$PageName="لوحة التحكم المعاهد ";
 include 'arabic_header.php';
 ?>
 
@@ -14,11 +14,11 @@ include 'arabic_header.php';
                         <div class="overlay">
                             <h3 class="title1 text-center custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                 <br />
-                             بريد العملاء 
+                                لوحة التحكم المعاهد 
                             </h3>
 
                             <h2 class="title1 text-center custom-title hidden-xs">
-                              بريد العملاء 
+                            لوحة التحكم المعاهد 
                             </h2>
                         </div>
                     </div>
@@ -34,10 +34,10 @@ include 'arabic_header.php';
                 <div class="container">
                     <div class="text-center">
                         <h4 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
-                            الصفقات الأكاديمية
+                            الصفقات المعاهد 
                         </h4>
 
-                        <h2 class="custom-title hidden-xs">الصفقات الأكاديمية</h2>
+                        <h2 class="custom-title hidden-xs">الصفقات المعاهد </h2>
                     </div>
                 </div>
             </div>
@@ -51,17 +51,17 @@ include 'arabic_header.php';
                                 التسجيل
                             </h6>
                             <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
-                                المنشآت 
+                                المعاهد  
                             </h6>
                             <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                 الأكاديمية
                             </h6>
 
                             <h4 class="custom-title hidden-xs">التسجيل</h4>
-                            <h4 class="custom-title hidden-xs">المنشآت </h4>
+                            <h4 class="custom-title hidden-xs">المعاهد  </h4>
                             <h4 class="custom-title hidden-xs">الأكاديمية</h4>
 
-                            <p><a href="institution.php" class="btn btn-primary custom-btn-primary"> التسجيل</a></p>
+                            <p><a href="academic_institute.php" class="btn btn-primary custom-btn-primary"> التسجيل</a></p>
                         </div>
                     </div>
                 </div>
@@ -77,17 +77,17 @@ include 'arabic_header.php';
                                 السجلات
                             </h6>
                             <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
-                               المنشآت 
+                               المعاهد  
                             </h6>
                             <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                 الأكاديمية
                             </h6>
 
                             <h4 class="custom-title hidden-xs">السجلات</h4>
-                            <h4 class="custom-title hidden-xs">المنشآت </h4>
+                            <h4 class="custom-title hidden-xs">المعاهد  </h4>
                             <h4 class="custom-title hidden-xs">الأكاديمية</h4>
 
-                            <p><a href="institutions.php" class="btn btn-primary custom-btn-primary"> السجلات</a></p>
+                            <p><a href="academic_institutes.php" class="btn btn-primary custom-btn-primary"> السجلات</a></p>
                         </div>
                     </div>
                 </div>
@@ -210,10 +210,10 @@ include 'arabic_header.php';
           
 
                         <h4 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
-                            المعاهد الأكاديمية
+                        المشاريع المعاهد 
                         </h4>
 
-                        <h2 class="custom-title hidden-xs">المعاهد الأكاديمية</h2>
+                        <h2 class="custom-title hidden-xs"> المشاريع المعاهد </h2>
                     </div>
                 </div>
             </div>
@@ -715,6 +715,177 @@ include 'arabic_header.php';
                     </div>
                 </div>
             </div>
+
+
+
+            <div class="row hidden-xs hidden-sm">
+                <div class="container">
+                    <div class="text-center">
+                        <h4 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
+                            التطبيقات المعاهد 
+                        </h4>
+
+                        <h2 class="custom-title hidden-xs">التطبيقات المعاهد </h2>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 col-sm-3 col-xs-6 hidden-xs hidden-sm">
+                <div id="blog-thumbnail hidden-xs hidden-sm" class="thumbnail custom-thumbnail">
+                    <img src="images/Laptop.png" alt="schools" class="Image-zise" />
+                    <br />
+                    <div class="caption custom-caption">
+                        <div class="text-center">
+                            <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
+                                المنتجات
+                            </h6>
+                            <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
+                                التطبيقات
+                            </h6>
+                            <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
+                                الحاسوب
+                            </h6>
+
+                            <h4 class="custom-title hidden-xs">المنتجات</h4>
+                            <h4 class="custom-title hidden-xs">التطبيقات</h4>
+                            <h4 class="custom-title hidden-xs">الحاسوب</h4>
+
+                            <p><a href="" target="_blank" class="btn btn-primary custom-btn-primary"> الأنظمة</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 col-sm-3 col-xs-6 hidden-xs hidden-sm">
+                <div id="blog-thumbnail hidden-xs hidden-sm" class="thumbnail custom-thumbnail">
+                    <img src="images/Laptop.png" alt="schools" class="Image-zise" />
+
+                    <br />
+                    <div class="caption custom-caption">
+                        <div class="text-center">
+                            <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
+                                الخدمات
+                            </h6>
+                            <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
+                                التطبيقات
+                            </h6>
+                            <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
+                                الحاسوب
+                            </h6>
+
+                            <h4 class="custom-title hidden-xs">الخدمات</h4>
+                            <h4 class="custom-title hidden-xs">التطبيقات</h4>
+                            <h4 class="custom-title hidden-xs">الحاسوب</h4>
+
+                            <p><a href="" target="_blank" class="btn btn-primary custom-btn-primary"> الأنظمة</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 col-sm-3 col-xs-6 hidden-xs hidden-sm">
+                <div id="blog-thumbnail hidden-xs hidden-sm" class="thumbnail custom-thumbnail">
+                    <img src="images/Laptop.png" alt="schools" class="Image-zise" />
+
+                    <br />
+                    <div class="caption custom-caption">
+                        <div class="text-center">
+                            <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
+                                المنتجات
+                            </h6>
+                            <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
+                                التطبيقات
+                            </h6>
+                            <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
+                                الشبكات
+                            </h6>
+
+                            <h4 class="custom-title hidden-xs">المنتجات</h4>
+                            <h4 class="custom-title hidden-xs">التطبيقات</h4>
+                            <h4 class="custom-title hidden-xs">الشبكات</h4>
+
+                            <p><a href="" target="_blank" class="btn btn-primary custom-btn-primary"> الأنظمة</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 col-sm-3 col-xs-6 hidden-xs hidden-sm">
+                <div id="blog-thumbnail hidden-xs hidden-sm" class="thumbnail custom-thumbnail">
+                    <img src="images/Laptop.png" alt="schools" class="Image-zise" />
+
+                    <br />
+                    <div class="caption custom-caption">
+                        <div class="text-center">
+                            <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
+                                الخدمات
+                            </h6>
+                            <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
+                                التطبيقات
+                            </h6>
+                            <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
+                                الشبكات
+                            </h6>
+
+                            <h4 class="custom-title hidden-xs">الخدمات</h4>
+                            <h4 class="custom-title hidden-xs">التطبيقات</h4>
+                            <h4 class="custom-title hidden-xs">الشبكات</h4>
+
+                            <p><a href="" target="_blank" class="btn btn-primary custom-btn-primary"> الأنظمة</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-2 col-sm-3 col-xs-6 hidden-xs hidden-sm">
+                <div id="blog-thumbnail hidden-xs hidden-sm" class="thumbnail custom-thumbnail">
+                    <img src="images/Laptop.png" alt="institutes" class="Image-zise" />
+
+                    <br />
+                    <div class="caption custom-caption">
+                        <div class="text-center">
+                            <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
+                                المنتجات
+                            </h6>
+                            <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
+                                التطبيقات
+                            </h6>
+                            <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
+                                الإنترنت
+                            </h6>
+
+                            <h4 class="custom-title hidden-xs">المنتجات</h4>
+                            <h4 class="custom-title hidden-xs">التطبيقات</h4>
+                            <h4 class="custom-title hidden-xs">الإنترنت</h4>
+
+                            <p><a href="" target="_blank" class="btn btn-primary custom-btn-primary"> الأنظمة</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 col-sm-3 col-xs-6 hidden-xs hidden-sm">
+                <div id="blog-thumbnail hidden-xs hidden-sm" class="thumbnail custom-thumbnail">
+                    <img src="images/Laptop.png" alt="university" class="Image-zise" />
+
+                    <br />
+                    <div class="caption custom-caption">
+                        <div class="text-center">
+                            <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
+                                الخدمات
+                            </h6>
+                            <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
+                                التطبيقات
+                            </h6>
+                            <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
+                                الإنترنت
+                            </h6>
+
+                            <h4 class="custom-title hidden-xs">الخدمات</h4>
+                            <h4 class="custom-title hidden-xs">التطبيقات</h4>
+                            <h4 class="custom-title hidden-xs">الإنترنت</h4>
+
+                            <p><a href="" target="_blank" class="btn btn-primary custom-btn-primary"> الأنظمة</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
 
 
 

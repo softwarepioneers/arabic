@@ -36,10 +36,10 @@ include 'arabic_header.php';
                 <div class="container">
                     <div class="text-center">
                         <h4 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
-                            الصفقات الأكاديمية
+                        الصفقات  المدارس 
                         </h4>
 
-                        <h2 class="custom-title hidden-xs">الصفقات الأكاديمية</h2>
+                        <h2 class="custom-title hidden-xs">  الصفقات المدارس  </h2>
                     </div>
                 </div>
             </div>
@@ -212,10 +212,10 @@ include 'arabic_header.php';
              
 
                         <h4 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
-                            المدارس الأكاديمية
+                          المشاريع  المدارس 
                         </h4>
 
-                        <h2 class="custom-title hidden-xs">المدارس الأكاديمية</h2>
+                        <h2 class="custom-title hidden-xs">المشاريع المدارس  </h2>
                     </div>
                 </div>
             </div>
@@ -726,10 +726,10 @@ include 'arabic_header.php';
                 <div class="container">
                     <div class="text-center">
                         <h4 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
-                            التطبيقات الأكاديمية
+                            التطبيقات المدارس
                         </h4>
 
-                        <h2 class="custom-title hidden-xs">التطبيقات الأكاديمية</h2>
+                        <h2 class="custom-title hidden-xs">التطبيقات المدارس</h2>
                     </div>
                 </div>
             </div>

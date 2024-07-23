@@ -1,5 +1,5 @@
 <?php
-$PageName="السجلات المعاهد ";
+$PageName="التسجيل الجامعات ";
 include 'arabic_header.php';
 ?>
             <br />
@@ -14,11 +14,11 @@ include 'arabic_header.php';
                         <div class="overlay">
                             <h3 class="title1 text-center custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                 <br />
-                                السجلات المعاهد 
+                                التسجيل الجامعات 
                             </h3>
 
                             <h2 class="title1 text-center custom-title hidden-xs">
-                                السجلات  المعاهد   
+                                 التسجيل الجامعات   
                             </h2>
                         </div>
                     </div>
@@ -32,7 +32,7 @@ include 'arabic_header.php';
                 <div class="container-fluid">
                     <div class="text-center">
                         <h3>
-                        السجلات المعاهد
+                            التسجيل الجامعات
                         </h3>
                     </div>
 
@@ -44,20 +44,20 @@ include 'arabic_header.php';
                             <br />
                             <div class="caption custom-caption">
                                 <div class="text-center">
-                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">السجلات</h6>
-                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">المعاهد </h6>
+                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">التسجيل</h6>
+                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">الجامعات </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                         الإقليم 
                                     </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">أودال</h6>
-                                     <h4 class="custom-title hidden-xs">السجلات</h4>
-                                    <h4 class="custom-title hidden-xs">المعاهد </h4>
+                                     <h4 class="custom-title hidden-xs">التسجيل</h4>
+                                    <h4 class="custom-title hidden-xs">الجامعات </h4>
                                     <h4 class="custom-title hidden-xs">
                                         الإقليم 
                                     </h4>
                                     <h4 class="custom-title hidden-xs">أودال</h4>
 
-                                    <p><a href="awdal_schools_contracts.php" class="btn btn-primary custom-btn-primary">السجلات </a></p>
+                                    <p><a href="awdal_schools_contract.php" class="btn btn-primary custom-btn-primary">التسجيل </a></p>
                                 </div>
                             </div>
                         </div>
@@ -69,20 +69,20 @@ include 'arabic_header.php';
                             <br />
                             <div class="caption custom-caption">
                                 <div class="text-center">
-                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">السجلات</h6>
-                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">المعاهد </h6>
+                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">التسجيل</h6>
+                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">الجامعات </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                         الإقليم
                                     </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">مرودي جيح</h6>
-                                     <h4 class="custom-title hidden-xs">السجلات</h4>
-                                    <h4 class="custom-title hidden-xs">المعاهد </h4>
+                                     <h4 class="custom-title hidden-xs">التسجيل</h4>
+                                    <h4 class="custom-title hidden-xs">الجامعات </h4>
                                     <h4 class="custom-title hidden-xs">
                                         الإقليم
                                     </h4>
                                     <h4 class="custom-title hidden-xs">مرودي جيح</h4>
 
-                                    <p><a href="maroodijeex_schools_contracts.php" class="btn btn-primary custom-btn-primary">السجلات </a></p>
+                                    <p><a href="maroodijeex_schools_contract.php" class="btn btn-primary custom-btn-primary">التسجيل </a></p>
                                 </div>
                             </div>
                         </div>
@@ -94,20 +94,20 @@ include 'arabic_header.php';
                             <br />
                             <div class="caption custom-caption">
                                 <div class="text-center">
-                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">السجلات</h6>
-                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">المعاهد </h6>
+                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">التسجيل</h6>
+                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">الجامعات </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                         الإقليم 
                                     </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">الساحل</h6>
-                                     <h4 class="custom-title hidden-xs">السجلات</h4>
-                                    <h4 class="custom-title hidden-xs">المعاهد </h4>
+                                     <h4 class="custom-title hidden-xs">التسجيل</h4>
+                                    <h4 class="custom-title hidden-xs">الجامعات </h4>
                                     <h4 class="custom-title hidden-xs">
                                         الإقليم 
                                     </h4>
                                     <h4 class="custom-title hidden-xs">الساحل</h4>
 
-                                    <p><a href="saaxil_schools_contracts.php" class="btn btn-primary custom-btn-primary">السجلات </a></p>
+                                    <p><a href="saaxil_schools_contract.php" class="btn btn-primary custom-btn-primary">التسجيل </a></p>
                                 </div>
                             </div>
                         </div>
@@ -119,20 +119,20 @@ include 'arabic_header.php';
                             <br />
                             <div class="caption custom-caption">
                                 <div class="text-center">
-                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">السجلات</h6>
-                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">المعاهد </h6>
+                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">التسجيل</h6>
+                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">الجامعات </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                         الإقليم  
                                     </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">سَنَاج</h6>
-                                     <h4 class="custom-title hidden-xs">السجلات</h4>
-                                    <h4 class="custom-title hidden-xs">المعاهد </h4>
+                                     <h4 class="custom-title hidden-xs">التسجيل</h4>
+                                    <h4 class="custom-title hidden-xs">الجامعات </h4>
                                     <h4 class="custom-title hidden-xs">
                                         الإقليم  
                                     </h4>
                                     <h4 class="custom-title hidden-xs">سَنَاج</h4>
 
-                                    <p><a href="sanaag_schools_contracts.php" class="btn btn-primary custom-btn-primary">السجلات </a></p>
+                                    <p><a href="sanaag_schools_contract.php" class="btn btn-primary custom-btn-primary">التسجيل </a></p>
                                 </div>
                             </div>
                         </div>
@@ -144,20 +144,20 @@ include 'arabic_header.php';
                             <br />
                             <div class="caption custom-caption">
                                 <div class="text-center">
-                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">السجلات</h6>
-                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">المعاهد </h6>
+                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">التسجيل</h6>
+                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">الجامعات </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                         الإقليم  
                                     </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">صول</h6>
-                                     <h4 class="custom-title hidden-xs">السجلات</h4>
-                                    <h4 class="custom-title hidden-xs">المعاهد </h4>
+                                     <h4 class="custom-title hidden-xs">التسجيل</h4>
+                                    <h4 class="custom-title hidden-xs">الجامعات </h4>
                                     <h4 class="custom-title hidden-xs">
                                         الإقليم  
                                     </h4>
                                     <h4 class="custom-title hidden-xs">صول</h4>
 
-                                    <p><a href="sool_schools_contracts.php" class="btn btn-primary custom-btn-primary">السجلات </a></p>
+                                    <p><a href="sool_schools_contract.php" class="btn btn-primary custom-btn-primary">التسجيل </a></p>
                                 </div>
                             </div>
                         </div>
@@ -171,20 +171,20 @@ include 'arabic_header.php';
                             <br />
                             <div class="caption custom-caption">
                                 <div class="text-center">
-                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">السجلات</h6>
-                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">المعاهد </h6>
+                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">التسجيل</h6>
+                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">الجامعات </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                         الإقليم  
                                     </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">توغدير</h6>
-                                     <h4 class="custom-title hidden-xs">السجلات</h4>
-                                    <h4 class="custom-title hidden-xs">المعاهد </h4>
+                                     <h4 class="custom-title hidden-xs">التسجيل</h4>
+                                    <h4 class="custom-title hidden-xs">الجامعات </h4>
                                     <h4 class="custom-title hidden-xs">
                                         الإقليم  
                                     </h4>
                                     <h4 class="custom-title hidden-xs">توغدير</h4>
 
-                                    <p><a href="togdheer_schools_contracts.php" class="btn btn-primary custom-btn-primary">السجلات </a></p>
+                                    <p><a href="togdheer_schools_contract.php" class="btn btn-primary custom-btn-primary">التسجيل </a></p>
                                 </div>
                             </div>
                         </div>

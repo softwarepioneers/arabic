@@ -1,5 +1,5 @@
 <?php
-$PageName="السجلات المعاهد ";
+$PageName="السجلات المراكز ";
 include 'arabic_header.php';
 ?>
             <br />
@@ -14,11 +14,11 @@ include 'arabic_header.php';
                         <div class="overlay">
                             <h3 class="title1 text-center custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                 <br />
-                                السجلات المعاهد 
+                                السجلات المراكز 
                             </h3>
 
                             <h2 class="title1 text-center custom-title hidden-xs">
-                                السجلات  المعاهد   
+                                السجلات  المراكز   
                             </h2>
                         </div>
                     </div>
@@ -32,7 +32,7 @@ include 'arabic_header.php';
                 <div class="container-fluid">
                     <div class="text-center">
                         <h3>
-                        السجلات المعاهد
+                        السجلات المراكز
                         </h3>
                     </div>
 
@@ -45,13 +45,13 @@ include 'arabic_header.php';
                             <div class="caption custom-caption">
                                 <div class="text-center">
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">السجلات</h6>
-                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">المعاهد </h6>
+                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">المراكز </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                         الإقليم 
                                     </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">أودال</h6>
                                      <h4 class="custom-title hidden-xs">السجلات</h4>
-                                    <h4 class="custom-title hidden-xs">المعاهد </h4>
+                                    <h4 class="custom-title hidden-xs">المراكز </h4>
                                     <h4 class="custom-title hidden-xs">
                                         الإقليم 
                                     </h4>
@@ -70,13 +70,13 @@ include 'arabic_header.php';
                             <div class="caption custom-caption">
                                 <div class="text-center">
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">السجلات</h6>
-                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">المعاهد </h6>
+                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">المراكز </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                         الإقليم
                                     </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">مرودي جيح</h6>
                                      <h4 class="custom-title hidden-xs">السجلات</h4>
-                                    <h4 class="custom-title hidden-xs">المعاهد </h4>
+                                    <h4 class="custom-title hidden-xs">المراكز </h4>
                                     <h4 class="custom-title hidden-xs">
                                         الإقليم
                                     </h4>
@@ -95,13 +95,13 @@ include 'arabic_header.php';
                             <div class="caption custom-caption">
                                 <div class="text-center">
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">السجلات</h6>
-                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">المعاهد </h6>
+                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">المراكز </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                         الإقليم 
                                     </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">الساحل</h6>
                                      <h4 class="custom-title hidden-xs">السجلات</h4>
-                                    <h4 class="custom-title hidden-xs">المعاهد </h4>
+                                    <h4 class="custom-title hidden-xs">المراكز </h4>
                                     <h4 class="custom-title hidden-xs">
                                         الإقليم 
                                     </h4>
@@ -120,13 +120,13 @@ include 'arabic_header.php';
                             <div class="caption custom-caption">
                                 <div class="text-center">
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">السجلات</h6>
-                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">المعاهد </h6>
+                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">المراكز </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                         الإقليم  
                                     </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">سَنَاج</h6>
                                      <h4 class="custom-title hidden-xs">السجلات</h4>
-                                    <h4 class="custom-title hidden-xs">المعاهد </h4>
+                                    <h4 class="custom-title hidden-xs">المراكز </h4>
                                     <h4 class="custom-title hidden-xs">
                                         الإقليم  
                                     </h4>
@@ -145,13 +145,13 @@ include 'arabic_header.php';
                             <div class="caption custom-caption">
                                 <div class="text-center">
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">السجلات</h6>
-                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">المعاهد </h6>
+                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">المراكز </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                         الإقليم  
                                     </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">صول</h6>
                                      <h4 class="custom-title hidden-xs">السجلات</h4>
-                                    <h4 class="custom-title hidden-xs">المعاهد </h4>
+                                    <h4 class="custom-title hidden-xs">المراكز </h4>
                                     <h4 class="custom-title hidden-xs">
                                         الإقليم  
                                     </h4>
@@ -172,13 +172,13 @@ include 'arabic_header.php';
                             <div class="caption custom-caption">
                                 <div class="text-center">
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">السجلات</h6>
-                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">المعاهد </h6>
+                                    <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">المراكز </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                         الإقليم  
                                     </h6>
                                     <h6 class="custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">توغدير</h6>
                                      <h4 class="custom-title hidden-xs">السجلات</h4>
-                                    <h4 class="custom-title hidden-xs">المعاهد </h4>
+                                    <h4 class="custom-title hidden-xs">المراكز </h4>
                                     <h4 class="custom-title hidden-xs">
                                         الإقليم  
                                     </h4>
