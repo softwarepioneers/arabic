@@ -57,7 +57,7 @@ include 'arabic_header.php';
                                     </h4>
                                     <h4 class="custom-title hidden-xs">أودال</h4>
 
-                                    <p><a href="awdal_schools_contract.php" class="btn btn-primary custom-btn-primary">التسجيل </a></p>
+                                    <p><a href="awdal_institutes_contract.php" class="btn btn-primary custom-btn-primary">التسجيل </a></p>
                                 </div>
                             </div>
                         </div>
@@ -82,7 +82,7 @@ include 'arabic_header.php';
                                     </h4>
                                     <h4 class="custom-title hidden-xs">مرودي جيح</h4>
 
-                                    <p><a href="maroodijeex_schools_contract.php" class="btn btn-primary custom-btn-primary">التسجيل </a></p>
+                                    <p><a href="maroodijeex_institutes_contract.php" class="btn btn-primary custom-btn-primary">التسجيل </a></p>
                                 </div>
                             </div>
                         </div>
@@ -107,7 +107,7 @@ include 'arabic_header.php';
                                     </h4>
                                     <h4 class="custom-title hidden-xs">الساحل</h4>
 
-                                    <p><a href="saaxil_schools_contract.php" class="btn btn-primary custom-btn-primary">التسجيل </a></p>
+                                    <p><a href="saaxil_institutes_contract.php" class="btn btn-primary custom-btn-primary">التسجيل </a></p>
                                 </div>
                             </div>
                         </div>
@@ -132,7 +132,7 @@ include 'arabic_header.php';
                                     </h4>
                                     <h4 class="custom-title hidden-xs">سَنَاج</h4>
 
-                                    <p><a href="sanaag_schools_contract.php" class="btn btn-primary custom-btn-primary">التسجيل </a></p>
+                                    <p><a href="sanaag_institutes_contract.php" class="btn btn-primary custom-btn-primary">التسجيل </a></p>
                                 </div>
                             </div>
                         </div>
@@ -157,7 +157,7 @@ include 'arabic_header.php';
                                     </h4>
                                     <h4 class="custom-title hidden-xs">صول</h4>
 
-                                    <p><a href="sool_schools_contract.php" class="btn btn-primary custom-btn-primary">التسجيل </a></p>
+                                    <p><a href="sool_institutes_contract.php" class="btn btn-primary custom-btn-primary">التسجيل </a></p>
                                 </div>
                             </div>
                         </div>
@@ -184,7 +184,7 @@ include 'arabic_header.php';
                                     </h4>
                                     <h4 class="custom-title hidden-xs">توغدير</h4>
 
-                                    <p><a href="togdheer_schools_contract.php" class="btn btn-primary custom-btn-primary">التسجيل </a></p>
+                                    <p><a href="togdheer_institutes_contract.php" class="btn btn-primary custom-btn-primary">التسجيل </a></p>
                                 </div>
                             </div>
                         </div>

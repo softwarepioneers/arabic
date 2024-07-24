@@ -1,6 +1,6 @@
 
 <?php
-$PageName="التسجيل المدارس أودال ";
+$PageName="التسجيل المعاهد أودال ";
 include 'arabic_header.php';
 ?>
 
@@ -15,11 +15,11 @@ include 'arabic_header.php';
                         <div class="overlay">
                             <h3 class="title1 text-center custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                 <br />
-                               التسجيل المدارس أودال
+                               التسجيل المعاهد أودال
                             </h3>
 
                             <h2 class="title1 text-center custom-title hidden-xs">
-                               التسجيل المدارس أودال
+                               التسجيل المعاهد أودال
                             </h2>
                         </div>
                     </div>
@@ -34,7 +34,7 @@ include 'arabic_header.php';
                 <div class="container">
                     <div class="col-xs-12 text-center">
                         <h3>تسجيل</h3>
-                        <h3>المدارس الأكاديمية</h3>
+                        <h3>المعاهد الأكاديمية</h3>
                     </div>
                     <div class="col-xs-12 col-md-12">
                     <form action="" method="post" id="contact-us" class="form">
@@ -226,7 +226,7 @@ include 'arabic_header.php';
                    قائمة 
                 </h3>
                 <h3>
-                المدارس الأكاديمية
+                المعاهد الأكاديمية
                 </h3>
             </div>
 
