@@ -1,5 +1,5 @@
 <?php
-$PageName="السجلات المدارس الساحل ";
+$PageName="السجلات المعاهد الساحل ";
 include 'arabic_header.php';
 ?>
             <br />
@@ -13,11 +13,11 @@ include 'arabic_header.php';
                         <div class="overlay">
                             <h3 class="title1 text-center custom-title hidden-sm hidden-md hidden-lg hidden-xl hidden-xxl">
                                 <br />
-                               قائمة المدارس الساحل
+                               قائمة المعاهد الساحل
                             </h3>
 
                             <h2 class="title1 text-center custom-title hidden-xs">
-                               قائمة المدارس الساحل
+                               قائمة المعاهد الساحل
                             </h2>
                         </div>
                     </div>
@@ -31,7 +31,7 @@ include 'arabic_header.php';
                     قائمة 
                 </h3>
                 <h3>
-                    المدارس الأكاديمية
+                    المعاهد الأكاديمية
                 </h3>
             </div>
 
